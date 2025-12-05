@@ -98,3 +98,5 @@ On détecte automatiquement le chemin Java puis on l'ajoute à ~/.bashrc
     echo "JAVA_HOME: $JAVA_HOME"
     echo "M2_HOME: $M2_HOME"
 ```
+
+![mvn_3.9_installation](images/mvn_3.9_installation_m1ch1_Ok.png)
